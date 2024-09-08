@@ -73,9 +73,9 @@ ___
 -	YTD - Year-to-Date
 -	YTG - Year-to-Go
 ___
-Check Full Live Dashboard: https://lnkd.in/gxGazaks
+[Check Full Live Dashboard](https://project.novypro.com/p74feZ)
 
-Video Link on YouTube: 
+[Video Link on YouTube] 
 ___
 
 ::: warning
