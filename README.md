@@ -78,5 +78,5 @@ ___
 [Video Link on YouTube] 
 ___
 
-**NOTE: I plan to release BI360 2.0 with an upgraded design and enhanced UI. Stay Tuned...**
+⚠ **NOTE: I plan to release BI360 2.0 with an upgraded design and enhanced UI. Stay Tuned...**
 
