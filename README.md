@@ -11,16 +11,16 @@ ___
 -	Perform ETL (Extract Transform Load) transform it into a consistent format, and then load it into a target system.
 ___
 #### 2.	Dashboard Development:
--	Financial Dashboard:
+##### -	Financial Dashboard:
   -	Monitor financial health through KPIs like Net sales, Gross margin %, and Net profit %.
   -	Compare actual vs. budgeted financial performance.
--	Sales Dashboard:
+##### -	Sales Dashboard:
   -	Visualize sales performance by region, product line, and customer.
   -	Track key metrics such as net sales in dollars, and gross margin %, and use a tooltip metrics.
--	Marketing Dashboard:
+##### -	Marketing Dashboard:
   - Visualize marketing performance by product line and customer.
   - Visualize unit economics by COGS, post-invoice deduction, pre-invoice deduction, gross margin, and net sales.
--	Supply Chain Dashboard:
+##### -	Supply Chain Dashboard:
   -	Monitor inventory through KPIs like forecast accuracy %, net error, and absolute error.
   -	Optimize inventory management by identifying trends and forecasting demand.
 ___
@@ -74,8 +74,10 @@ ___
 -	YTG - Year-to-Go
 ___
 Check Full Live Dashboard: https://lnkd.in/gxGazaks
+
 Video Link on YouTube: 
 ___
+
 ::: warning
 *NOTE: I plan to release BI360 2.0 with an upgraded design and enhanced UI. Stay Tuned...*
 :::
