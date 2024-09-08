@@ -9,7 +9,7 @@ ___
 -	Collect and integrate data from multiple sources, including SQL Server, and Excel sheets.
 -	Establish a robust data model within Power BI that connects these sources to ensure accurate and consistent reporting.
 -	Perform ETL (Extract Transform Load) transform it into a consistent format, and then load it into a target system.
-___
+
 #### 2.	Dashboard Development:
 ##### -	Financial Dashboard:
   -	Monitor financial health through KPIs like Net sales, Gross margin %, and Net profit %.
@@ -23,10 +23,10 @@ ___
 ##### -	Supply Chain Dashboard:
   -	Monitor inventory through KPIs like forecast accuracy %, net error, and absolute error.
   -	Optimize inventory management by identifying trends and forecasting demand.
-___
+
 #### 3.	Reporting and Analytics:
 -	Create interactive reports that allow users to drill down into details and explore data dynamically.
-___
+
 #### 4.	Maintenance and Support:
 -	Optimize the report using DAX Studio.
 -	Set up a process for monthly updates to the dashboards and data models.
